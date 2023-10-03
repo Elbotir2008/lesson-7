@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "phone": 23142462,
+      "favorite": false
+    },
+    {
+      "0": {
+        "id": 1,
+        "firstname": "John",
+        "lastname": "Doe",
+        "phone": 23142462,
+        "favorite": false
+      },
+      "firstname": "Badalov ",
+      "lastname": "Javohir",
+      "phone": "97777828",
+      "id": 2
+    }
+  ]
+}
